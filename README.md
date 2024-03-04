@@ -21,52 +21,9 @@ yeller0828@gmail.com
 
 <br />
 
-### My Experiences :fire:
-```
- - 2017 - eDigitalForensics Challenge - the grand prize
- - 2018 - Youth Future Imagination Technology Competition - a gold statue
- - 2018 - NEWSECU CTF (Hosted by NEWSECU CTF)
- - 2019 - A patent application called artificial intelligence technology using a smart receipt system
- - 2019 - NEWSECU CTF (Hosted by NEWSECU CTF)
- - 2019 - Announcement of ksis X NEWSECU Seminar (Digital Forensisc with CTF)
- - 2020 - NEWSECU Chall (Hosted by NEWSECU Challenge)
- - 2020 - Announcement for NEWSECU Seminar (NEWSECU CHALL)
- - 2020 - Inflearn Vulnerability Report(Related Personal Information)
- - 2021 - DFC (Digital Forensics Challenge) - second place / K2YPLJ (https://dfchallenge.org/winners-2021/)
- - 2021 - KDFS (KDFS Challenge) - first place
- - 2022 - Announcement of HSpace Team Building Hackathon (Information of 2022KDFS)
- - 2022 - DFC (Digital Fornsics Challenge) - an award for excellence / BirdLab (https://dfchallenge.org/winners-2022/)
- - 2022 - A paper submission - A Design of an Intelligent English Vocabulary Learning System based on Context and Vocabulary Group(ACK2022)
- - 2022 - Accnouncement of 2022 ACK - Academic Conference of the Korean Society for Information Processing - participation award
- - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(ACK2023)
- - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(CSA2023)
-```
 
-### My Projects 😄
-```
-  - Smart Receipt with OCR
-  - Volatility Gui Auto Analyzer
-  - iPhone Forensics Tools
-  - JJ Cyber Campus Manage Tool
-  - Revu Ads Center Management Tool
-  - Re Design magicedition.com
-  - Develop dgedu.kr (KT teacher, safe call)
-  - Make WebPage drlohas.co.kr (Samsung Lohas Medical)
-  - Platform Review Writer (Baedal Minjok, Yogiyo, Coupangeats Ceo Review Auto Write)
-  - Develop Digital WaterMarking Platform with patreon
-  - Develop Sales Statistic Website
-```
 
-### My Certificate ###
-```
-  - Digital Forensics Expert Certificate level 2 / (2022.07.29)
-  - Computer literacy level 1
-  - Linux Master Certificate level 2
-  - Word Processor
-  - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
-  - FTK Ace v7 (Digital Forensics Certificate) / (2021.02.22)
-  - ITQ etc
-```
+
 
 <!--
 Here are some ideas to get you started:
