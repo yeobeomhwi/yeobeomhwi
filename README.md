@@ -7,8 +7,10 @@
 <!--
 <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/80385966_114502953381236_6833108576400048128_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=zxx0HMQLLg0AX9vGPkS&_nc_ht=scontent-ssn1-1.xx&oh=47d12fde589a42e64939280c7e369b1c&oe=5FAAD48D" width=200px>-->  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EC%A7%84%EC%8B%A4&width=435&height=20&lines=JJ+University's+Senior+year+in+computer+science.)](https://git.io/typing-svg)
-<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EC%A7%84%EC%8B%A4&width=435&height=20&lines=Android+and+Kotlin+developer.)](https://git.io/typing-svg)
+
+
 ### Social Netwokring 💬
   [![Instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pental.20)](https://instagram.com/control.__.c)
 
