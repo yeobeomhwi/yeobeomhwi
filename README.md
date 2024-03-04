@@ -1,3 +1,5 @@
+<div align=center>
+  
 ![haed](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=%20Yeo%20Beom-hwi’s%20GitHub&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60)
 
 
@@ -41,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
