@@ -1,4 +1,4 @@
-![haed](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeAuto&text=%20Yeo%20Beom-hwi’s%20GitHub&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60)
+![haed](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=%20Yeo%20Beom-hwi’s%20GitHub&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60)
 
 
 ### Hi there 👋
