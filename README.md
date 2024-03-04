@@ -9,7 +9,7 @@
 
 ### Contact 📱
 ```
-pental@kakao.com
+yeller0828@gmail.com
 ```
 
 
